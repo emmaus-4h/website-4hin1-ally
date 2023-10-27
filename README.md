@@ -17,4 +17,3 @@ https://www.w3schools.com/howto/default.asp
 https://validator.w3.org/
 
 ## Credits
-- ...
