@@ -89,7 +89,7 @@ nav ul {                        /* <ul> die child is van <nav> */
   list-style-type: none;
   margin: auto;
   padding: 0;
-  background-color: #dddddd;
+  background-color: #cca105;
   overflow: hidden;
 }
 
@@ -133,6 +133,24 @@ nav li a.active {
 .item-tekst {
   float: right;
   width: 450px;
+}
+#image-container {
+ overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.3;
+
+  background-image: url(eden_hazard___wallpaper__phone_hd_by_mwafiq_10_dck083m-fullview.jpg) ;
+background-size: cover;
+  background-position: center;
+}
+nav{
+  position: absolute;
+  z-index: 1;
+  right:1500px;
 }
 
 /************************* SUBPAGINA *************************/
