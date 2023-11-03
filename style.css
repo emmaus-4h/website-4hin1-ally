@@ -106,11 +106,11 @@ nav li a {
 }
 
 nav li a:hover {
-  background-color: #aaaaaa;
+  background-color: #e0dbe1;
 }
 
 nav li a.active {
-  background-color: skyblue;
+  background-color: #0d3973;
 }
 
 
