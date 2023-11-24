@@ -2,6 +2,11 @@ Deze repo is onderdeel van het vak informatica op het Emmauscollege Rotterdam.
 
 [Meer info over deze opdracht](https://informatica.emmauscollege.nl/)
 
+
+
+
+
+
 ## Documentatie
 - Khan Academy cursus Intro to HTML en CSS 
 https://www.khanacademy.org/computing/computer-programming/programming
